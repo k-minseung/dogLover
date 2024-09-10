@@ -16,7 +16,7 @@ theme: jekyll-agency
 url    : "https://k-minseung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Dog Company
+title      : Dog Company 🐕
 email      : minseung923@naver.com #this is also the email contact forms will go to
 description: "강아지를 사랑하는 모임"
 author     : Dog Lover

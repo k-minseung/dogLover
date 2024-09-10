@@ -11,31 +11,31 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 고양이를 좋아한다면
+    text: 우리는 지금부터 친구일세
+    button: 냥
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "고양이의매력"
+    text: "고양이는 귀엽다"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "색이 다른 두 눈"
+        desc: "오드아이 고양이는 정말 귀엽다"
+        icon: fas fa-solid fa-cat #find more at https://fontawesome.com/icons
+      - title: "윤기나는 털"
+        desc: "부드럽다"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "말랑한 젤리발바닥"
+        desc: "한 입 먹어보고싶다."
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "고양이 사진"
+    text: "고양이의 귀여움"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "사진 닫기"
 
   about:
     title: "About Us"
